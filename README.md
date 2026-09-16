@@ -30,6 +30,5 @@ This project is a functional prototype with core gameplay implemented and basic 
 Feel free to explore, modify, or contribute to the project!
 
 ---
-
 **Author:** Shammas-ul-Islam Satti  
 **GitHub:** [Shammas-satti-00](https://github.com/Shammas-satti-00)
